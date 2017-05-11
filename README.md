@@ -1,10 +1,10 @@
 # lichen_RADseq
 Scripts from publication Grewe at al. 2017
 
-### RAdseq simulation
+### RADseq simulation
 radsim_pipe.R
 
-### mapping to refernce sequence
+### mapping to reference sequence
 mapping_clust.sh
 
 ### linear regression model
