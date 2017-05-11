@@ -1,17 +1,17 @@
 # lichen_RADseq
 Scripts from publication Grewe at al. 2017
 
-# RAdseq simulation
+### RAdseq simulation
 radsim_pipe.R
 
-# mapping to refernce sequence
+### mapping to refernce sequence
 mapping_clust.sh
 
-# linear regression model
+### linear regression model
 lm_fragments_loci.R
 
-# plot of shared loci
+### plot of shared loci
 matrix_plot.R
 
-# DAPC
+### DAPC
 pca.r
